@@ -1,5 +1,5 @@
 # TIVAitor: Pharmacokinetic Models Reference
-*Extracted from TIVAtrainer (https://www.tivatrainer.com/about/) for future development planning.*
+*For future development planning.*
 
 ## 1. Hypnotics / Intravenous Anesthetics
 
