@@ -36,4 +36,4 @@ def generate_plasma_tci_events(model, target_conc, duration_min):
             'display': f'TCI Maintenance @ {t} min: {rate_mg_min * 60:.1f} mg/hr'
         })
         
-    return events
+    return events   
